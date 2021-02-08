@@ -1,7 +1,31 @@
-# Productos de Electrónica
+# Datasets de Productos de Electrónica
 
-Precios de portátiles, televisores, móviles... Cualquier producto de electrónica en las principales plataformas online. Este dataset se puede adquirir en [Data Market](https://datamarket.es/#productos-de-electronica-dataset), plataforma de referencia de datos externos en España. Puede consultar nuestro catálogo de datos en la siguiente url: [datamarket.es](https://datamarket.es/)
+<a href="https://datamarket.es">
+  <img src="https://datamarket.es/static/core/img/banners/noticias-economicas-banner.png">
+</a>
 
+## Descripción
+
+Precios de portátiles, televisores, móviles... __Cualquier producto de electrónica en las principales plataformas online__. 
+
+Las características de este dataset son las siguientes:
+
+* __Frecuencia de actualización__: actualizado cada 12h
+* __Volumen estimado__: 
+* __Histórico__: 
+
+El dataset completo se puede adquirir en [DataMarket](https://datamarket.es/#productos-de-electronica-dataset), plataforma de referencia de datos externos en España. 
+
+Este repositorio contiene los siguientes recursos:
+
+* La documentación completa del dataset.
+* Una muestra representativa del mismo disponible para su evaluación y uso gratuito.
+
+## Muestra
+
+La muestra se encuentra disponible para descarga en el siguiente [link](https://github.com/Data-Market/productos-de-electronica/blob/main/productos-de-electronica-sample.csv).
+
+## Documentación
 A continuación se muestran las columnas de las que consta el dataset en el formato __nombre_columna__: __ejemplo_columna__, donde ejemplo_columna representa posibles valores que se pueden encontrar en dicha columna.
 
 | nombre      | tipo     | descripción                                                                                                            | ejemplo                                                                         |
