@@ -1,7 +1,7 @@
 # Datasets de Productos de Electrónica
 
 <a href="https://datamarket.es">
-  <img src="https://datamarket.es/static/core/img/banners/noticias-economicas-banner.png">
+  <img src="https://datamarket.es/static/core/img/banners/productos-de-electronica-banner.png">
 </a>
 
 ## Descripción
